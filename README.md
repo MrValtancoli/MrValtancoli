@@ -8,23 +8,36 @@ Sviluppatore con oltre 20 anni di esperienza nell'IT e appassionato di analisi d
 
 ### 🔧 Tech Stack
 
-**Development**
-- 💻 **Languages**: VB6, Python, R, Java, .NET
-- 🗄️ **Database**: Microsoft SQL Server (ottimizzazione, stored procedures)
-- 🛠️ **Tools**: Crystal Reports, B4A (Basic4Android), Instant Developer
-- 📱 **Mobile**: Sviluppo applicazioni Android
-
-**Data Analysis & Visualization**
-- 📊 Python & R per analisi statistiche
-- 🎨 Infografiche e visualizzazioni dati (Canva, Python)
-- 🎥 Video analysis con overlay (Once Sport, Longomatch)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![VB6](https://img.shields.io/badge/Visual_Basic_6-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Stored Procedures](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![B4A](https://img.shields.io/badge/B4A-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+![Crystal Reports](https://img.shields.io/badge/Crystal_Reports-990000?style=for-the-badge&logoColor=white)
+![Once Sport](https://img.shields.io/badge/Once_Sport-00D4AA?style=for-the-badge&logoColor=white)
+![LongoMatch](https://img.shields.io/badge/LongoMatch-8BC34A?style=for-the-badge&logoColor=white)
+![SICS.tv](https://img.shields.io/badge/SICS.tv-FF6600?style=for-the-badge&logoColor=white)
 
 ---
 
 ### ⚽ Football Analytics
 
-Video Analyst & Data Analyst presso **Cesena Femminile** (Serie B)
-- 🎓 Allenatore UEFA B
+Video Analyst & Data Analyst
+- 🎓 Allenatore UEFA B - SICS Junior Match Analyst - Longomatch (L3 Professional)
 - 📹 Analisi tattica e statistica tramite GPS tracking, sensori e piattaforme video
 
 ---
