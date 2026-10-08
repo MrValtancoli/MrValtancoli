@@ -43,6 +43,14 @@ Video Analyst & Data Analyst
 
 ---
 
+### 🏟️ Zona Calcio Lab
+
+Fondatore e Analista delle Performance
+- 🧪 [Zona Calcio Lab](https://github.com/ZonaCalcioLab): laboratorio indipendente che unisce dati, video e tattica per migliorare le performance in campo
+- 🛠️ Sviluppo di tool custom per la match analysis, tra cui PlayTrace
+
+---
+
 ### 📝 Content Creation
 
 - ✍️ Articoli su **LinkedIn** su sviluppo software e football analytics
@@ -65,6 +73,10 @@ Video Analyst & Data Analyst
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/robertovaltancoli) 
 - 📸 [Instagram](https://www.instagram.com/MrValtancoli)
+- ▶️ [YouTube](https://youtube.com/@MrValtancoli)
+- 🎵 [TikTok](https://tiktok.com/@mrvaltancoli)
+- 🟣 [Twitch](https://www.twitch.tv/mrvaltancoli)
+- ☕ [Buy Me a Coffee](https://www.buymeacoffee.com/MrValtancoli)
 - 📧 Email: [roberto.valtancoli@zonacalciolab.it](mailto:roberto.valtancoli@zonacalciolab.it)
 
 ---
