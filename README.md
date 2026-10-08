@@ -47,7 +47,7 @@ Video Analyst & Data Analyst
 
 Fondatore e Analista delle Performance
 - 🧪 [Zona Calcio Lab](https://github.com/ZonaCalcioLab): laboratorio indipendente che unisce dati, video e tattica per migliorare le performance in campo
-- 🛠️ Sviluppo di tool custom per la match analysis, tra cui PlayTrace
+- 🛠️ Sviluppo di tool custom per la match analysis, tra cui [PlayTrace](https://github.com/MrValtancoli/PlayTrace-App)
 
 ---
 
